@@ -6,4 +6,4 @@ services:
     ports:
       - "80:80"
     volumes:
-      - ./apacher_server:/usr/local/apache2/htdocs
+      - ./apache_server:/usr/local/apache2/htdocs
